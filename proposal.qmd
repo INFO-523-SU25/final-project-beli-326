@@ -11,7 +11,7 @@ description: "For starters, my goal to create an interactive dashboard is due to
                 in the data. /n
               Secondly, the reason i'd like to study crime in Mexico has to do with my background. I grew up spending all of my summers in Mexcio, I
                 even attended kindergarten there. I expereince different worlds in Mexico, as I would stay a small town in the mountains and at time
-                on the Pacific Coast at a large turism City
+                on the Pacific coast at a lcity known to hold a large tourist attraction. 
                "
 format:
   html:
